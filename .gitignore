@@ -1,0 +1,18 @@
+# Ignore venv directory
+venv/
+
+# Ignore pipenv virtual environment
+Pipfile
+Pipfile.lock
+
+# Ignore PyInstaller build directory
+dist/
+
+# Ignore egg-info directory
+*.egg-info/
+
+# Ignore pycache
+__pycache__/
+
+# Ignore environment-specific files
+.env
